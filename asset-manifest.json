@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ftf-programmingLearn/static/css/main.ea731937.css",
+    "main.js": "/ftf-programmingLearn/static/js/main.161a5048.js",
+    "static/media/BackgroundDirections.png": "/ftf-programmingLearn/static/media/BackgroundDirections.1bf2d03ff1593037ed30.png",
+    "static/media/Frontend.png": "/ftf-programmingLearn/static/media/Frontend.879c501c5be28d180566.png",
+    "static/media/Backend.png": "/ftf-programmingLearn/static/media/Backend.96ea2419a0dfef1d108c.png",
+    "static/media/UIUX.png": "/ftf-programmingLearn/static/media/UIUX.748def63f33a9da58b0e.png",
+    "index.html": "/ftf-programmingLearn/index.html",
+    "main.ea731937.css.map": "/ftf-programmingLearn/static/css/main.ea731937.css.map",
+    "main.161a5048.js.map": "/ftf-programmingLearn/static/js/main.161a5048.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea731937.css",
+    "static/js/main.161a5048.js"
+  ]
+}
